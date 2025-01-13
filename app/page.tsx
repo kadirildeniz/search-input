@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { Input } from "@/components/ui/input";
 import { Command } from "lucide-react";
 import { CommandMenu } from "@/app/components/command-menu";

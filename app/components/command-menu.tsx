@@ -2,7 +2,6 @@
 
 import { motion, AnimatePresence } from "framer-motion";
 import { BadgeEuro, Dribbble, FigmaIcon, GithubIcon, SlackIcon } from "lucide-react";
-import { useEffect, useState } from "react";
 
 const menuItems = [
   { id: 1, title: "Slack", shortcut: "4 Messages" , icon: <SlackIcon className="w-4 h-4 text-[#aa2424]" />},
